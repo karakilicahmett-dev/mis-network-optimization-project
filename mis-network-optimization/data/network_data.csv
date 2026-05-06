@@ -1,0 +1,11 @@
+Source,Target,Distance_km
+Tuzla,Maltepe,25
+Tuzla,Pendik,10
+Maltepe,Kadıköy,15
+Maltepe,Üsküdar,18
+Kadıköy,Üsküdar,5
+Kadıköy,Beşiktaş,12
+Üsküdar,Beşiktaş,8
+Beşiktaş,Şişli,4
+Şişli,Kağıthane,6
+Şişli,Sarıyer,15
